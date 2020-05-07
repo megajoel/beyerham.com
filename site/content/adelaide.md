@@ -8,6 +8,6 @@ draft: false
 
 ## The one and only
 
-We made her name up. Hello world!
+We made her name up.
 
 ## Enjoy 😸
