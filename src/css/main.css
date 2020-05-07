@@ -30,3 +30,8 @@ a {
 .content {
   padding: 0 32px;
 }
+
+p {
+  max-width: 600px;
+  padding: 0 25px;
+}
